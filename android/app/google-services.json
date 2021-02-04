@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "983268732532",
+    "project_id": "vishnu-app-ea13a",
+    "storage_bucket": "vishnu-app-ea13a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983268732532:android:6ed433e5fff60dc3fbeb21",
+        "android_client_info": {
+          "package_name": "com.asha.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983268732532-6de21rcdpa8llm2p0jf7fgdffeebs5ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcc6f9GV8icTi9YldkDxR86X2KyGeQvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983268732532-6de21rcdpa8llm2p0jf7fgdffeebs5ao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983268732532-srpoah6t55jo54upqmrgs7neavmc10a4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asha.task"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
